@@ -6,7 +6,7 @@ Este es un ejercicio desarrollado en React donde se pide resolver el algoritmo d
 Webstorm
 
 
-##Librerias usadas 
+## Librerias usadas 
 
 React\
 Jest
